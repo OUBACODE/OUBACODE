@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Dynamic Header Wave Banner (XML Validated) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=220&section=header&text=OUBACODE%20|%20Youssef%20Oubari&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20at%20OubaCode%20•%20Mobile%20App%20Architect%20•%20Full-Stack%20and%20AI%20Developer&descFontSize=17&descAlignY=58" width="100%" alt="OUBACODE Header Banner" />
@@ -29,7 +29,7 @@
 
   <!-- Profile Visitor Counter -->
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=yusufobr&style=flat-square&color=c9a876&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OUBACODE&style=flat-square&color=c9a876&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -113,15 +113,12 @@ identity:
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=yusufobr&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufobr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=OUBACODE&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="410" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yusufobr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="390" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OUBACODE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="390" />
       </td>
     </tr>
   </table>
@@ -133,9 +130,9 @@ identity:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufobr/yusufobr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufobr/yusufobr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yusufobr/yusufobr/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OUBACODE/OUBACODE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OUBACODE/OUBACODE/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/OUBACODE/OUBACODE/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
